@@ -1,0 +1,23 @@
+<%- include("partials/header") -%>
+
+<form action="/" method="post">
+    <div class="bg-grey-lighter min-h-screen flex flex-col">
+    <div class="container max-w-sm mx-auto flex-1 flex flex-col items-center justify-center px-2">
+            <div class="bg-white px-6 py-8 rounded shadow-md text-black w-full flex items-center flex-col">
+                <h1 class="mb-8 text-4xl text-center font-bold italic text-blue-600">Role Selection</h1>
+                <label for="role" class="text-2xl m-2">Select your role:</label>
+                <br>
+                <div>
+                    <ul class="list-disc m-">
+                        <li>
+                            <a href="dsignup" class="text-xl italic text-blue-400 hover:underline ">Doctor</a>
+                        </li>
+                        <li>
+                            <a href="signup" class="text-xl italic text-blue-400 hover:underline">Patient</a>
+                        </li>
+                    </ul>
+                </div>
+</form>
+
+<%- include("partials/footer") -%>
+

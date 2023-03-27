@@ -1,0 +1,25 @@
+<%- include("partials/header")-%>
+
+    <div class="form-container">
+      <div class="non-med-info">
+      <span class="non-med-info" style="font: 50px; color: rgb(21, 21, 21);">Dr..ID</span> <span class="non-med-info" style="font: 50px; color: rgb(21, 21, 21)">Date</span>
+    </div>
+    <form action="/pinfo" method="post">
+      <div class="input-group">
+        <span class="input-group-text dig" style="background-color: #BBD6B8;" >Diagnosis</span>
+        <textarea class="form-control dig" aria-label="With textarea" name="diagnosis"></textarea>
+      </div><br>
+      <div class="med-list-container">
+        <textarea class="form-control med-list" id="exampleFormControlTextarea1" rows="3" placeholder="Medicine" name="medicine"></textarea>
+        <textarea class="form-control med-list" id="exampleFormControlTextarea1" rows="3" placeholder="Special Care" name="specialCare"></textarea>
+      </div><br>
+      <div class="input-group">
+        <span class="input-group-text diagnosis remarks" style="background-color: #BBD6B8;"  >Remarks</span>
+        <textarea class="form-control remarks remarks" aria-label="With textarea"name="remarks"></textarea>
+      </div>  <br>
+      <button type="submit" style="width: 200px;">Submit</button>
+    </form>
+  </div>
+
+</body>
+</html>
