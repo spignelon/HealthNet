@@ -1,3 +1,4 @@
+![logo](https://i.imgur.com/dyVqjla.png)
 # HealthNet
 
 HealthNet is a centralized electronic health record platform that allows healthcare providers and patients to access and manage medical records in a secure and efficient manner. This project aims to improve patient outcomes and promote medical research by providing a centralized database for storing and sharing medical data.
