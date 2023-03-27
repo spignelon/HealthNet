@@ -3,7 +3,7 @@
 
 HealthNet is a centralized electronic health record platform that allows healthcare providers and patients to access and manage medical records in a secure and efficient manner. This project aims to improve patient outcomes and promote medical research by providing a centralized database for storing and sharing medical data.
 
-This project was developed during the 2023 hackathon named hackEDCode, which was conducted in East Delhi Campus USAR for Guru Gobind Singh Indraprastha University. The first round was about 6 hours.
+This project was developed during the 2023 hackathon named hackEDCode, which was conducted in East Delhi Campus USAR for Guru Gobind Singh Indraprastha University.
 
 Download the PDF of our presentation by [clicking here](https://github.com/spignelon/HealthNet/raw/main/HealthNet.pdf).
 
