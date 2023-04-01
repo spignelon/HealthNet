@@ -27,3 +27,8 @@ To use HealthNet, healthcare providers and patients must create an account on th
 ## Contributing
 
 Contributions to HealthNet are welcome and appreciated. To contribute, please fork the repository and submit a pull request with your changes.
+
+## License
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+HealthNet is licensed under the [GNU General Public License v3.0](https://github.com/spignelon/HealthNet/blob/main/LICENSE).
